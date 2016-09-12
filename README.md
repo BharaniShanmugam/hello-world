@@ -1,2 +1,2 @@
 # hello-world
-java is a simple language
+java is a easy language
